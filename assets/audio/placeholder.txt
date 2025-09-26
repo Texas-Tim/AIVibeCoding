@@ -1,0 +1,16 @@
+# Audio Assets
+
+Place your pre-generated audio files here:
+
+- throw.mp3 - Frisbee throw sound effect
+- catch.mp3 - Frisbee catch sound effect
+- score.mp3 - Scoring sound effect
+- whistle.mp3 - Game start/end whistle
+- background.mp3 - Background music (looping)
+
+Recommended format: MP3
+Recommended length: 
+- Sound effects: 0.5-2 seconds
+- Background music: 30-60 seconds (will loop)
+
+Note: These should be generated using AWS Bedrock Claude 3.7 as specified in requirements.

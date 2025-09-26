@@ -1,0 +1,12 @@
+# Sprite Assets
+
+Place your 8-bit sprite files here:
+
+- player-red.png (16x16 pixels) - Red team player sprite
+- player-blue.png (16x16 pixels) - Blue team player sprite  
+- frisbee.png (8x8 pixels) - Frisbee sprite
+- field-marker.png (optional) - Field markers
+
+Recommended format: PNG with transparent background
+Recommended size: 16x16 pixels for players, 8x8 for frisbee
+Color palette: Use 8-bit style colors for authentic retro look
